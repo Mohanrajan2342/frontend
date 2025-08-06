@@ -1,0 +1,22 @@
+//datatyes
+//string,boolean,number,null and undefined
+console.log('mohan'<6);
+console.log('blue'>9);
+console.log(true<2);
+console.log(false<-7);
+console.log(true>4);
+console.log(false>1);
+console.log(false<null);
+console.log(true>null);
+console.log(undefined>null);
+console.log(null>16);
+console.log(undefined==null);
+console.log(undefined==false);
+console.log(false!=null);
+console.log(false<=7);
+console.log(true>=-2);
+console.log(1.2+5.7);
+console.log(0.2+1.0);
+console.log([1,5]+[6,3]);
+console.log([1,2]*[2,4]);
+console.log("2">"9");
